@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370548496777",
+    "firebase_url": "https://museumjakarta-ec34c.firebaseio.com",
+    "project_id": "museumjakarta-ec34c",
+    "storage_bucket": "museumjakarta-ec34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370548496777:android:56e4fa72ceb65f3c",
+        "android_client_info": {
+          "package_name": "com.example.museumjakarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370548496777-imidgleh7cc7qt5uv1pe3f6tgsgi7v7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.museumjakarta",
+            "certificate_hash": "63b7010593ac1c2b146f8e9477b67965473c113a"
+          }
+        },
+        {
+          "client_id": "370548496777-pg1qv49cg52emubshd0q6kokb3grj731.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwnSZ8X5dcpvdL29GpE70fpPuB1PBtnO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370548496777-pg1qv49cg52emubshd0q6kokb3grj731.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

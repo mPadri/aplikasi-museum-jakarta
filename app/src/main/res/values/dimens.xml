@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="m_top">24dp</dimen>
+    <dimen name="m_bottom">50dp</dimen>
+    <dimen name="btn_bottom">24</dimen>
+</resources>

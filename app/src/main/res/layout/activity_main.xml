@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="208dp"
+        android:layout_height="84dp"
+        android:src="@drawable/headicon"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/m_top"
+        android:layout_marginBottom="@dimen/m_bottom"
+        />
+
+    <Button
+        android:id="@+id/btn_jakut"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="24dp"
+        android:text="Jakarta Utara"
+        android:background="@color/c_btn1"/>
+
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Jakarta Barat"
+        android:id="@+id/btn_jakbar"
+        android:layout_marginBottom="24dp"
+        android:background="@color/c_btn2"/>
+
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Jakarta Pusat"
+        android:id="@+id/btn_jakpus"
+        android:layout_marginBottom="24dp"
+        android:background="@color/c_btn3"/>
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Jakarta Timur"
+        android:id="@+id/btn_jaktim"
+        android:layout_marginBottom="24dp"
+        android:background="@color/c_btn4"/>
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Jakarta Selatan"
+        android:id="@+id/btn_jaksel"
+        android:layout_marginBottom="24dp"
+        android:background="@color/c_btn5"/>
+
+</LinearLayout>

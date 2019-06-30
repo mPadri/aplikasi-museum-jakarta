@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#FF9802</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="c_btn1">#FBD8A6</color>
+    <color name="c_btn2">#FFC877</color>
+    <color name="c_btn3">#FFB141</color>
+    <color name="c_btn4">#FFAA2F</color>
+    <color name="c_btn5">#FF9802</color>
+    <color name="black">#000</color>
+</resources>
